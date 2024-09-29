@@ -1,0 +1,8 @@
+Key	English	Spanish
+ConversationUI.Start	Start Conversation	Empezar conversación
+ConversationUI.Continue	Continue	Continuar
+ConversationUI.End	End	Terminar
+MainMenu.SelectLanguage	Select language	Seleccionar Idioma
+Conversation1_1	Hey!	¡Hola!
+Conversation1_2	I... just wanted to say that...	Yo... sólo quería decir que...
+Conversation1_3	Miameeee!	Miameeee!

@@ -1,0 +1,37 @@
+Key	English	Spanish
+ConversationUI.Start	Start Conversation	Empezar conversación
+ConversationUI.Continue	Continue	Continuar
+ConversationUI.End	End	Terminar
+SAM	Sam	Sam
+TUTORI	Tutori	Tutori
+GUARDIAN	Lighthouse Keeper	Guardian Del Faro
+ConversationBeach_1_1	¿W-where am I? ¿What is this place?	¿D-dónde estoy? ¿Qué es este lugar?
+ConversationBeach_1_2	Last I remember, I was on a cruise with my parents... and then...	Solo recuerdo que estaba en un crucero y luego...
+ConversationBeach_1_3	I have to return home! But how?	Tengo que volver a casa! ¿Pero como?
+ConversationBeach_2_1	What happened?! Where did that cave come from?!	¡¿Qué paso?! ¡¿Cómo apareció esa cueva de repente?!
+ConversationBeach_2_2	This place is so weird...	Este lugar es tan raro...
+ConversationBeach_3_1	What's that pink gem?	¿Qué será esa gema rosa?
+ConversationBeach_3_2	...! Did the gem change the perspective?	¡...! ¿La gema cambio la perspectiva? 
+ConversationBeach_4_1	Hello stranger.	Hola extraño.
+ConversationBeach_4_2	Huh?! W- who are you? WHAT are you?	¡¿...?! ¿Q-quién eres? ¿Qué eres?
+ConversationBeach_4_3	As far as I'm aware, I'm but a talking rock.	No lo sé, solo una roca que habla.
+ConversationBeach_4_4	Did the perspective change because I touched that rock?	¿La perspectiva cambio por tocar esa piedra?
+ConversationBeach_4_5	Yes, exactly! Our perspectives are always changing. Like a sandwich, which sometimes just has bread but when you check, it has some pickles inside it!	Si, exactamente. Las perspectivas siempre cambian. Como el sandwich, que a veces tienen solo pan pero cuando lo vez tiene pepinillos.
+ConversationBeach_4_6	Ehhh... Are you alright?	Eeeeh... ¿Está bien?
+ConversationBeach_4_7	Very sorry, I got distracted.	Perdón, perdón, me fui por las ramas.
+ConversationBeach_5_1	...Hey, do you know how I could return home?	Oye, ¿sabes cómo volver a mi casa?
+ConversationBeach_5_2	Perhaps the Lighthouse Keeper can help you. He knows lots of things.	Quizas el Farolero pueda ayudarte. Él sabe muchas cosas.
+ConversationBeach_5_3	Lighthouse Keeper? Who is he?	¿El Farolero? ¿Quién es el Farolero?
+ConversationBeach_5_4	Someone like you, a lost soul who found a new point of view.	Alguien como tú, alguien perdido que encontro un nuevo punto de vista.
+ConversationBeach_5_5	Just like me? Do you know where to find him?	¿Es igual a mí? ¿Sabes dónde encontrarlo?
+ConversationBeach_5_6	Yes, he's at the lighthouse. Highest part of the island. Keep going, you'll find it eventually.	Si, está en el faro. En la parte más alta de la isla. Sigue a la izquierda y lo encontrarás
+Menu.Play	Play	Jugar
+Menu.Options	Options	Opciones
+Menu.Credits	Credits	Créditos
+Menu.Return	Return	Regresar
+Menu.MadeBy	Game made by:	Juego hecho por:
+Menu.Pause	Pause	Pausa
+Menu.Continue	Continue	Continuar
+Menu.MainMenu	Main Menu	Menú Principal
+Menu.SelectLanguage	Select Language	Seleccionar Idioma
+Menu.ToBeContinued	To be continued...	Continuará

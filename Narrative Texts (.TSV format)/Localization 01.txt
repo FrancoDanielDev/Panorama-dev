@@ -1,0 +1,37 @@
+Key	English	Spanish
+ConversationUI.Start	Start Conversation	Empezar conversación
+ConversationUI.Continue	Continue	Continuar
+ConversationUI.End	End	Terminar
+SAM	Sam	Sam
+TUTORI	Tutori	Tutori
+GUARDIAN	Lighthouse Keeper	Guardian Del Faro
+ConversationBeach_1_1	...Uh... Hello? Are you alright, young man?	...Em… ¿Hola? ..Joven, ¿Esta bien?
+ConversationBeach_1_2	Huh?!	¡¿Eh?!
+ConversationBeach_1_3	W- what are you?! Where am I?! Where's the cruise?!	¿Q- que eres tu? ¿Dónde estamos? ¿Dónde está el crucero?
+ConversationBeach_1_4	Hey, take it easy.	Ok, ok, tranquilícese.
+ConversationBeach_1_5	Take it easy?! Where am I?! And where are my parents?!	¿Que me tranquilice? ¿Dónde estoy? ¿Y donde estan mis padres?
+ConversationBeach_1_6	Sir, calm down a second. One thing at a time.	Señor, cálmese un momento. Las cosas paso a paso.
+ConversationBeach_1_7	...Hmf.	..Hmf.
+ConversationBeach_1_8	You said cruise, right? I assume you're another castaway.	¿Crusero, dijo? Asumo que usted es otro náufrago.
+ConversationBeach_1_9	...castaway?	¿...Náufrago?
+ConversationBeach_1_10	But don't worry! There's a lighthouse around  here. I'm sure if we talk to it's Keeper, he'll be able to put you in contact with your ship.	Pero no se preocupe. Hay un faro muy cerca de aquí. Seguro que si hablamos con el guardián del faro, el podrá ponerlo en contacto con su barco.
+ConversationBeach_1_11	Mm, ok... Where's the lighthouse?	Bueno… ¿Dónde queda el faro?
+ConversationBeach_1_12	It's on the highest part of the island. But it's a small isle, and the road is short... if a little strange.	En la parte más alta de la isla. Pero es una isla pequeña, y el camino es breve… si bien un poco raro.
+ConversationBeach_1_13	Strange?	¿Raro?
+ConversationBeach_1_14	Again, one thing at a time. Let's first learn how to move.	Las cosas, paso a paso. Antes que nada, a moverte.
+ConversationBeach_1_15	Did you know? You can move with the Arrow Keys, and jump using the Space Bar!	Recuerda que puedes moverte con las flechas, y saltar con espacio.
+ConversationBeach_1_16	...Arrow... what?	¿…Flechas?
+ConversationBeach_1_17	You'll get the hang of it. There's a tunnel nearby, it'll take you to the village, and from there? It's a straight shot to the lighthouse.	Ya lo entenderas. Hay un tunel cerca, te llevara al pueblo, y de ahi esta el camino mas directo al faro.
+ConversationBeach_1_18	...So, Arrows, Space... and I have to look for a cave?	¿Asi que flechas, espacio… y busco una cueva?
+ConversationBeach_1_19	Yep! And if you want to talk to me again, just press Space again when near me!	¡Sip! Y si quieres hablar conmigo de vuelta, apreta espacio cuando estes cerca mio.
+ConversationBeach_1_20	Ugh, it's a lot to remember... but alright. Let's go.	Es mucho que recordar... pero bueno. Vamos.
+ConversationBeach_1_21	Ok! Meet you there!	Ok! Nos vemos allá!
+Menu.Play	Play	Jugar
+Menu.Options	Options	Opciones
+Menu.Credits	Credits	Créditos
+Menu.Return	Return	Regresar
+Menu.MadeBy	Game made by:	Juego hecho por:
+Menu.Pause	Pause	Pausa
+Menu.Continue	Continue	Continuar
+Menu.MainMenu	Main Menu	Menú Principal
+Menu.SelectLanguage	Select Language	Seleccionar Idioma
